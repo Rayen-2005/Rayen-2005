@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Rayen 👋
 
-<!--
-**Rayen-2005/Rayen-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student @ MSU Denver  
+💻 Java | OOP | Learning data structures & algorithms  
+🧠 Seeking CS Internship
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Java (primary), Python (learning)
+- **Concepts:** OOP, debugging, file I/O, clean code
+- **Tools:** Git, GitHub, VS Code / IntelliJ
+
+---
+
+## Projects
+⭐ **Gym Fitness Tracker (Java)**  
+- Object-oriented design  
+- File I/O for data storage  
+- Input validation and modular methods
+
+*(More projects coming soon!)*
+
+---
+
+## Contact
+📬 rayeenbenkhaled@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/rayen-ben-khaled-02b15a327
