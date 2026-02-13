@@ -19,6 +19,12 @@
 - Supports adding/removing songs and generating playlists
 - Includes input validation and clean modular methods
 
+📚 **Library App Test Driver (Java)**
+- Reads structured book data from a file using File I/O
+- Uses ArrayList to store and manage book objects
+- Applies object-oriented principles across multiple classes
+- Implements search and data validation logic
+
 *(More projects coming soon!)*
 
 ---
