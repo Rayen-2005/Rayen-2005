@@ -12,12 +12,12 @@
 - **Tools:** Git, GitHub, VS Code / IntelliJ
 
 ---
-
 ## Projects
-⭐ **Gym Fitness Tracker (Java)**  
-- Object-oriented design  
-- File I/O for data storage  
-- Input validation and modular methods
+🎵 **Music Playlist Manager (Java)**
+- Reads song data from a CSV file (File I/O)
+- Uses OOP (classes like Song/Playlist/Manager)
+- Supports adding/removing songs and generating playlists
+- Includes input validation and clean modular methods
 
 *(More projects coming soon!)*
 
