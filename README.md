@@ -25,6 +25,17 @@
 - Applies object-oriented principles across multiple classes
 - Implements search and data validation logic
 
+💪 **Gym Fitness Tracker (Java)**
+
+- Java application that analyzes athlete fitness data.
+- Calculates BMI, BMI category, and maximum heart rate.
+- Tracks weekly calories burned using arrays and structured data.
+- Computes average daily calorie burn for multiple athletes.
+- Uses object-oriented programming with classes and methods.
+- Implements file input/output to read and process athlete data.
+
+
+
 *(More projects coming soon!)*
 
 ---
