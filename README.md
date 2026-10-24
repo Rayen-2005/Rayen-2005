@@ -34,6 +34,17 @@
 - Uses object-oriented programming with classes and methods.
 - Implements file input/output to read and process athlete data.
 
+### 💰 [Expense Tracker — Full-Stack Application](https://github.com/Rayen-2005/expense-tracker)
+
+**Tech Stack:** Java, Spring Boot, MySQL, JavaScript, HTML/CSS, Chart.js
+
+- Developed a full-stack expense management application with RESTful APIs supporting CRUD operations.
+- Built an interactive dashboard featuring spending analytics, category filtering, and transaction search.
+- Integrated MySQL using Spring Data JPA and Hibernate for persistent data storage.
+- Implemented backend validation, centralized exception handling, and automated unit tests using JUnit and Mockito.
+
+**[View Project on GitHub](https://github.com/Rayen-2005/expense-tracker)**
+
 
 
 *(More projects coming soon!)*
